@@ -1,2 +1,2 @@
 
-I left something here
+print("I left something here")
